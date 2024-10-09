@@ -1,1 +1,5 @@
-# ini cuma tampilan menyerupai linktree nothing special ඞඞඞඞඞඞඞඞඞඞ #
+# ini cuma tampilan menyerupai linktree 
+
+<img src="linktree.png">
+
+nothing special ඞඞඞඞඞඞඞඞඞඞ 
